@@ -1,0 +1,82 @@
+{
+    "ISTJ": {
+        "animal": "코끼리",
+        "description": "책임감이 강하고 체계적인 코끼리처럼, 신중하고 안정적인 성격을 가지고 있습니다.",
+        "image": "images/elephant.jpg"
+    },
+    "ISFJ": {
+        "animal": "고양이",
+        "description": "온화하고 배려심 깊은 고양이처럼, 따뜻한 마음을 가진 보호자입니다.",
+        "image": "images/cat.jpg"
+    },
+    "INFJ": {
+        "animal": "늑대",
+        "description": "깊은 통찰력과 이상주의적인 늑대처럼, 비전을 가지고 있는 지도자입니다.",
+        "image": "images/wolf.jpg"
+    },
+    "INTJ": {
+        "animal": "독수리",
+        "description": "전략적이고 독립적인 독수리처럼, 혁신적인 사고를 가진 전략가입니다.",
+        "image": "images/eagle.jpg"
+    },
+    "ISTP": {
+        "animal": "표범",
+        "description": "모험적이고 실용적인 표범처럼, 문제 해결에 뛰어난 탐험가입니다.",
+        "image": "images/leopard.jpg"
+    },
+    "ISFP": {
+        "animal": "돌고래",
+        "description": "예술적이고 자유로운 돌고래처럼, 감각적인 예술가입니다.",
+        "image": "images/dolphin.jpg"
+    },
+    "INFP": {
+        "animal": "팬더",
+        "description": "이상주의적이고 창의적인 팬더처럼, 따뜻한 마음을 가진 꿈꾸는 자입니다.",
+        "image": "images/panda.jpg"
+    },
+    "INTP": {
+        "animal": "부엉이",
+        "description": "논리적이고 창의적인 부엉이처럼, 혁신적인 사고를 가진 철학자입니다.",
+        "image": "images/owl.jpg"
+    },
+    "ESTP": {
+        "animal": "사자",
+        "description": "활동적이고 모험적인 사자처럼, 에너지 넘치는 모험가입니다.",
+        "image": "images/lion.jpg"
+    },
+    "ESFP": {
+        "animal": "원숭이",
+        "description": "즐거움을 추구하는 원숭이처럼, 자유로운 영혼의 연예인입니다.",
+        "image": "images/monkey.jpg"
+    },
+    "ENFP": {
+        "animal": "강아지",
+        "description": "열정적이고 창의적인 강아지처럼, 활기찬 영감을 주는 자입니다.",
+        "image": "images/dog.jpg"
+    },
+    "ENTP": {
+        "animal": "여우",
+        "description": "창의적이고 독창적인 여우처럼, 혁신적인 발명가입니다.",
+        "image": "images/fox.jpg"
+    },
+    "ESTJ": {
+        "animal": "개미",
+        "description": "체계적이고 실용적인 개미처럼, 효율적인 관리자입니다.",
+        "image": "images/ant.jpg"
+    },
+    "ESFJ": {
+        "animal": "비둘기",
+        "description": "사교적이고 배려심 깊은 비둘기처럼, 따뜻한 마음을 가진 조력자입니다.",
+        "image": "images/dove.jpg"
+    },
+    "ENFJ": {
+        "animal": "고래",
+        "description": "카리스마 있고 이상주의적인 고래처럼, 영감을 주는 지도자입니다.",
+        "image": "images/whale.jpg"
+    },
+    "ENTJ": {
+        "animal": "호랑이",
+        "description": "리더십 있고 전략적인 호랑이처럼, 강력한 지도자입니다.",
+        "image": "images/tiger.jpg"
+    }
+}
